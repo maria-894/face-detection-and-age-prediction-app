@@ -108,14 +108,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Face-Alignment-AI-/README.md at main · usmanhanif4040/Face-Alignment-AI- · GitHub</title>
-    <meta name="description" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/README.md at main · usmanhanif4040/Face-Alignment-AI-">
+  <title>Face-Alignment-AI-/Modifying Alignment Algorithm with point 9.py at main · usmanhanif4040/Face-Alignment-AI- · GitHub</title>
+    <meta name="description" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/Modifying Alignment Algorithm with point 9.py at main · usmanhanif4040/Face-Alignment-AI-">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7b71cee66c814952cc723b1ae7ab1da756ffbdf96ba4ae7be54283e21d1c0d2e/usmanhanif4040/Face-Alignment-AI-" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Face-Alignment-AI-/README.md at main · usmanhanif4040/Face-Alignment-AI-" /><meta name="twitter:description" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/README.md at main · usma..." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/7b71cee66c814952cc723b1ae7ab1da756ffbdf96ba4ae7be54283e21d1c0d2e/usmanhanif4040/Face-Alignment-AI-" /><meta property="og:image:alt" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/README.md at main · usma..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Face-Alignment-AI-/README.md at main · usmanhanif4040/Face-Alignment-AI-" /><meta property="og:url" content="https://github.com/usmanhanif4040/Face-Alignment-AI-" /><meta property="og:description" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/README.md at main · usma..." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7b71cee66c814952cc723b1ae7ab1da756ffbdf96ba4ae7be54283e21d1c0d2e/usmanhanif4040/Face-Alignment-AI-" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Face-Alignment-AI-/Modifying Alignment Algorithm with point 9.py at main · usmanhanif4040/Face-Alignment-AI-" /><meta name="twitter:description" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/Modifying Alignment Algo..." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/7b71cee66c814952cc723b1ae7ab1da756ffbdf96ba4ae7be54283e21d1c0d2e/usmanhanif4040/Face-Alignment-AI-" /><meta property="og:image:alt" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/Modifying Alignment Algo..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Face-Alignment-AI-/Modifying Alignment Algorithm with point 9.py at main · usmanhanif4040/Face-Alignment-AI-" /><meta property="og:url" content="https://github.com/usmanhanif4040/Face-Alignment-AI-" /><meta property="og:description" content="face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale. - Face-Alignment-AI-/Modifying Alignment Algo..." />
     
 
 
@@ -125,7 +125,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="193A:4107:BEEDAC:DBEF55:61F5B58B" data-pjax-transient="true"/><meta name="html-safe-nonce" content="02fe378cc5952de61423f6cef842c7a7637f9d8a42965da9b79f7ca0f8124223" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91c21hbmhhbmlmNDA0MC9GYWNlLUFsaWdubWVudC1BSS0vZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IjE5M0E6NDEwNzpCRUVEQUM6REJFRjU1OjYxRjVCNThCIiwidmlzaXRvcl9pZCI6IjE3MzQzNjg5MTc0NDc0Mzg5ODIiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="2e23257c033e66cdad5ec23e1d4fd87038b5abfd37eec49329f69f7d12651c2d" data-pjax-transient="true"/>
+  <meta name="request-id" content="193A:4107:BEEAD5:DBEBAA:61F5B57C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="02fe378cc5952de61423f6cef842c7a7637f9d8a42965da9b79f7ca0f8124223" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91c21hbmhhbmlmNDA0MC9GYWNlLUFsaWdubWVudC1BSS0vZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IjE5M0E6NDEwNzpCRUVBRDU6REJFQkFBOjYxRjVCNTdDIiwidmlzaXRvcl9pZCI6IjE3MzQzNjg5MTc0NDc0Mzg5ODIiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="70162ea40aa490584467554dccd1e875de38c3e0c1548b808b736d6e88d606ee" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:453288333" data-pjax-transient>
 
@@ -181,7 +181,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -234,7 +234,7 @@
       <div class="d-flex flex-items-center">
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
               class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4607edd292facf501ccac303bb02fef2b36a0308941c45a1984d0ac1e5d0f73e"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ef111eae4516817e1853777d88a71da40edf3de8bf8a73a7eb047b378b39a6b4"
             >
               Sign&nbsp;up
             </a>
@@ -263,57 +263,57 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Features;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="40afb788e954d01ebc693087f7b2ce1fa70bd0fe68d70b3707796d06a74ee73e" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Features;&quot;}" href="/features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Features;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b97becad2c40e5f7aa068df92fa44bfeb5121c403693a7e2d3a1c76fcf4b086b" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Features;&quot;}" href="/features">
       Features
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Mobile;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="32cca17272317eca37984b0a3f621000a69b818f257942f05484bad7fceab038" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Mobile;&quot;}" href="/mobile">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Mobile;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5462607a7685682d59092dde9a18f9c0941d01c44d71c5fa58dc419e7aa3575c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Mobile;&quot;}" href="/mobile">
       Mobile
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Actions;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7f7de6360e5d63c1d443cd15c28aaf8d1741326e7a016d3a46eac86a33db9870" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Actions;&quot;}" href="/features/actions">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Actions;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f7b0b8026375ca4fdeaf06763ade691c67db787aaca962d2e3a8fde48789d396" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Actions;&quot;}" href="/features/actions">
       Actions
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Codespaces;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c8b64f1a41ab12455efb22c3705b57f4d25a6ea96afe22710e5cd013aa68c603" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Codespaces;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e6727fc7cf1dcf91236f862fa7984eb610607946b0fe5d9aeef59f4a3842e74c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       Codespaces
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Packages;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c28aae46f7b681228a585e0adbc4dce2cf1a2cf21f60fab143b718a91421db38" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Packages;&quot;}" href="/features/packages">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Packages;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fe410b0b8b85c20cfd71308d81f34001a318007f1373b10b2d5ce4a1c4f54258" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Packages;&quot;}" href="/features/packages">
       Packages
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Security;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cca97b2f6458f05b91881424fe3f0a65283d32a44803c52abb7936e46c4ea91a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Security;&quot;}" href="/features/security">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Security;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fdd392973e855747c96332386551df4ee829f3d6290c3b3df01e3d7516ee589d" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Security;&quot;}" href="/features/security">
       Security
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Code review;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c6340b0bc270b5f38f7d800ed9b765b13dd25962a92becee9511dd3f31d7953a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Code review;&quot;}" href="/features/code-review">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Code review;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a917327c8be30e6265b8c54c92876fe22be27af8c728aca46be4daf7c9cacfe" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Code review;&quot;}" href="/features/code-review">
       Code review
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Issues;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e0ab15386b400ec1c9139ffb48c61fd8b7deaa16c7f1619b8a2f08425a9323a6" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Issues;&quot;}" href="/features/issues">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Issues;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="71ebc4d70561cfca664ad7d1c3504e81296bcfcc04600c787d094e4495e737bd" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Issues;&quot;}" href="/features/issues">
       Issues
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Integrations;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0ad8388702e30f45a9f94e324c63c9d62bf2c2a06d4b02e1ffa0cab7a9ff43d1" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Integrations;&quot;}" href="/features/integrations">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Integrations;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ad97de29abbba4cc2d855a2f925de278124d749f218847adcb29d0db5550edd4" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Integrations;&quot;}" href="/features/integrations">
       Integrations
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:GitHub Sponsors;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="27e604ba5262285ffd313cefbb859dc7a8c8897680b93a30b004cc1946b1a841" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:GitHub Sponsors;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="30f0f3a41608ef45ba6427766fc044178aea609e5a8f20070b6c03b790f7a98f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       GitHub Sponsors
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Customer stories;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="724ffe632dfa535660c7c460a06000492ffe6a4540173cc869ad056d01982e96" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Customer stories;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1c35034500988203084547d59fe3f7e641ad80ccfb54729de2986fb8db6c9e9d" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Customer stories;&quot;}" href="/customer-stories">
       Customer stories
 </a>  </li>
 
@@ -324,11 +324,11 @@
 
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Team;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0a44dd188160824f16d942f00ac048c93f54bd7535c29eb30c5696946a869c5f" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Team;&quot;}" href="/team">Team</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Team;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c9fb8d1f3dd9a7ac131973d0437cd456a4e0eb5503a24717f20a7fbe3813b397" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Team;&quot;}" href="/team">Team</a>
 </li>
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Enterprise;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="039cc45ce34c2a68e2ce47135a20faf26ef042a880ee7823e36a930fd42c505f" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Enterprise;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dd17db8f1198fc7feabcadcb5df3ccd3af16ca612e6f1d5f484e0959522f746b" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
 </li>
 
 
@@ -341,61 +341,61 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Explore GitHub;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="53f83cbdbd688e9a96c10689e278195e9293837f166c923c3d44f4cea8c9f089" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Explore GitHub;&quot;}" href="/explore">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Explore GitHub;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8fb5f0c481d073c2a39b869549b9bc15f9b4bfebc91e4359519f210a8df5878e" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Explore GitHub;&quot;}" href="/explore">
       Explore GitHub
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Topics;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="582782535b5ecdeb7b6c4da8c58ea97c5fe7b7fcd8d12ed4cb9ae9b188a3c84f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Topics;&quot;}" href="/topics">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Topics;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="61bbd1936ea48c6bed405bc2bc103312ccffb35129ce89b3467ac9635f63d917" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Collections;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac59690e8a8a0c7b5c3e5975bebd6e21088a37c51d841eb59ee5e5672cc30ac5" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Collections;&quot;}" href="/collections">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Collections;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1b7a683e3262af1c91a4e7dabbd89cc8dbe1a8d9489e4dd52e7f7c2e8108a9e4" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Trending;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb09c6988af8acec909e347f9c82bd92c642fbd39807f98b08c848d0300be128" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Trending;&quot;}" href="/trending">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Trending;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0f9815a5b8d099ed44fd53e160427c7ee8549c132a9ad4a87c12fe5c813c840f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Learning Lab;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5b60020c6884c225a685fe83e49a287f9cf5a3e30e6b1e1fc48002893e9dc992" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Learning Lab;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="763f246ffc28a89bc7953f4e87f9c718242c613492e7b5f280a9556e7ae3f314" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
       Learning Lab
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Open source guides;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c7b57f7a8270b313478b688d2761f200bb5592e8675e3322e2e328282b0704c8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Open source guides;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="eedaa303f57968fbfc7657176d47f8a6c30da92f8159a820aef8a865e1f2e6e3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
       Open source guides
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:The ReadME Project;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="59305ccd9a73740d81330bf71d578f0f582f9adebfc1c540214f2c524bb8a1be" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:The ReadME Project;&quot;}" href="/readme">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:The ReadME Project;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f2116b504af7efe60367506cf3f48f24f56e141aa82ef217011b1e3fca96608d" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:The ReadME Project;&quot;}" href="/readme">
       The ReadME Project
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Events;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed95b20ba95fabd8cfedd91b1f96153a4cc6bdd65845ab531eb01d8cf910d2eb" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Events;&quot;}" href="/events">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Events;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f73521fde78d4da427f9dc491e6f9a7e0c7f362ab6621cf6567def6e9af8878f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Events;&quot;}" href="/events">
       Events
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Community forum;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ff9888d5781ca4049dc72797cf836506e3332354947879ddfb842f0ff2ad0a5f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Community forum;&quot;}" href="https://github.community">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Community forum;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f9b2827e5fb5f877b61a9d0045a552c008f81635b8a6a89dc4a71d0134bf8474" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Community forum;&quot;}" href="https://github.community">
       Community forum
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:GitHub Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b19179738a6425e11817a7aa80020e0de9590628f432e87e9bb2158361acd74" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:GitHub Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2f3f3055cbd05ab97a7fd4f3d7c2e41246d375ab6803587e060e66469bfb8bed" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
       GitHub Education
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:GitHub Stars program;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5adc11d80dc6ce1dd5b3598f34943cd0ee2fd86b2fd336a3d7635f6b9185d9c2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:GitHub Stars program;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8e125e998786ce43eea2b2324504cc2d61cbd36aecf8e2d900eb0ad4003eb76f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
       GitHub Stars program
 </a>  </li>
 
@@ -406,7 +406,7 @@
 
 
             <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Marketplace;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6ea572221cc895defe8a649d131013d2bd60f0ecaee1d464e02cdc50e5613156" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Marketplace;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="276902469e9f69865e5eb4116b94e91817c9538c84f6a22e55a8f9a30521e65c" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
 </li>
 
 
@@ -419,22 +419,22 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="be349c399465dfbd7ed0ec5ad4b49541035b034106c598aa623537cbf9c1ec2b" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Plans;&quot;}" href="/pricing">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="32bd4e793a9ae7b49baf792f0d7682901f9fc4d284fb61ff9dc0159ea43f65e3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Plans;&quot;}" href="/pricing">
       Plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Compare plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a1023e9c32f00df6a3e28ee8c498f095497079d3d2735b3ae08ac5d734ae1249" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Compare plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dd56bb6cd86c5dcc92704100c2ef8c36cfda7be53f927768e152a2a297b49141" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
       Compare plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Contact Sales;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="158f1dc2389e6b8e9d9b47d5103d83102e3ff20cf908b2adbb3bd006ec16d650" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Contact Sales;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b07a4ad3633e21981578837ec0113a19a1db083d90e9e03ac0bc1d09b039ec98" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
       Contact Sales
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5369f1b0b83e5af2f4d4c4804709863a93be5a06217cc9a61e82757da7ddc3da" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md;ref_cta:Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d136657ed2f5125dbe5da819b0529d15a49f0f68a6113c9a9543ee34153d9cf1" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py;ref_cta:Education;&quot;}" href="https://education.github.com">
       Education
 </a>  </li>
 
@@ -476,7 +476,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="MfI0gFPcTp/f+PEFaAUYnZoOcAliqcH0Zi+rqR4/V5zANxxrOjMlJu1qxbxYSIjYT0HXtf9QGQbIdaXN3UzfUQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="NpToKOl2RxuTfWn/SSm2mm8mfrk36iine1lICQBUutzHUcDDgJksoqHvXUZ5ZCbfumnZBaoT8FXVA0ZtwycyEQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -656,9 +656,9 @@
           </div>
 
         <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fusmanhanif4040%2FFace-Alignment-AI-%2Fblob%2Fmain%2FREADME.md"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fusmanhanif4040%2FFace-Alignment-AI-%2Fblob%2Fmain%2FFace%2520Alignment%2520%28AI%29%2FModifying%2520Alignment%2520Algorithm%2520with%2520point%25209.py"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d5921cca4b27e5fd9b3a283fcf1f901ba8ad7b42ae6ef241b0ae0c0b2f88f462"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b0ec51c3a6bc3f60817ad0e901414ed43330f58bd6c599312565e257a2f08d7"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
@@ -666,8 +666,8 @@
 
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=usmanhanif4040%2FFace-Alignment-AI-"
             class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d5921cca4b27e5fd9b3a283fcf1f901ba8ad7b42ae6ef241b0ae0c0b2f88f462"
-            data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8f3f060018bc248ca232936455fbfdbb1d55b88b8f71720e36102c9e29ae6da3" data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b0ec51c3a6bc3f60817ad0e901414ed43330f58bd6c599312565e257a2f08d7"
+            data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6cc321fd372fd42202b5a0aeeef6da82fc068a94b0be5b7204e263de26c78e19" data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
           >
             Sign up
           </a>
@@ -758,14 +758,14 @@
   
 
   <li>
-      <a href="/login?return_to=%2Fusmanhanif4040%2FFace-Alignment-AI-" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="65f1f2e1edaed584ac5eb2bce1e5b87749eefb9fdcf24d89dce2cb67447397d7" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+      <a href="/login?return_to=%2Fusmanhanif4040%2FFace-Alignment-AI-" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2b3818cf68566d97e42065cccf3041ee36504a8e9872fa03ac2801f5e84e061a" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-        <a href="/login?return_to=%2Fusmanhanif4040%2FFace-Alignment-AI-" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:453288333,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5338f62478ae4642c94630cd8df9ab313da2555d8544ef79ee5db996f74a43fa" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/login?return_to=%2Fusmanhanif4040%2FFace-Alignment-AI-" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:453288333,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c32e4381c695cb246c0ec2fbde1c4adedb01af0e02a1e5aa96d7173c80aa1edc" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" title="1" data-view-component="true" class="Counter">1</span>
@@ -774,7 +774,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-      <a href="/login?return_to=%2Fusmanhanif4040%2FFace-Alignment-AI-" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:453288333,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e08410a116bc4319fad95484cd237d012d8e922f4ecb533e2beededbd8682320" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+      <a href="/login?return_to=%2Fusmanhanif4040%2FFace-Alignment-AI-" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:453288333,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6e407580f9aeb10141349543013ea28bf8783d4f79ad65da684536b717ef797a" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -964,7 +964,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/usmanhanif4040/Face-Alignment-AI-/blob/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/usmanhanif4040/Face-Alignment-AI-/blob/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -1050,7 +1050,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/{{ urlEncodedRefName }}/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1090,7 +1090,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/{{ urlEncodedRefName }}/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1121,7 +1121,60 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/usmanhanif4040/Face-Alignment-AI-"><span>Face-Alignment-AI-</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/usmanhanif4040/Face-Alignment-AI-"><span>Face-Alignment-AI-</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/usmanhanif4040/Face-Alignment-AI-/tree/main/Face%20Alignment%20(AI)"><span>Face Alignment (AI)</span></a></span><span class="separator">/</span><strong class="final-path">Modifying Alignment Algorithm with point 9.py</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:453288333,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4543bcd4d9548ce7ddca5ab8f09e8034348374155a552aed4bc4a7721daee91d" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:453288333,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c6d4e03062a330f8cfcb0064d1a85eaf9f5def11943c511b38a4b7ee0230882a" href="/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py#L1">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>Face_Align_Mouth</span>
+              <span class="flex-auto d-flex flex-justify-end">Class</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:453288333,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c6d4e03062a330f8cfcb0064d1a85eaf9f5def11943c511b38a4b7ee0230882a" href="/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py#L2">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>get_perspective_points</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
       <a href="/usmanhanif4040/Face-Alignment-AI-/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1137,7 +1190,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:453288333,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="628857d402116c8af938a31eca003e660025ae49106076a905f80a1daf60ca8b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/usmanhanif4040/Face-Alignment-AI-/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:453288333,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="116a52a7697c4aeecdfca4b02f2568ca8a3c852f4e452779de871c31dd085e51" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/usmanhanif4040/Face-Alignment-AI-/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -1147,15 +1200,21 @@
                   <span class="text-small color-fg-muted" aria-hidden="true">L</span>
                 </span>
 </button>            </li>
+            <li data-toggle-for="blob-more-options-details">
+              <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Go to definition</span>
+                  <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+                </span>
+</button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Face Alignment (AI)/Modifying Alignment Algorithm with point 9.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1170,7 +1229,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/usmanhanif4040/Face-Alignment-AI-/contributors/main/README.md" class="commit-loader">
+      <include-fragment src="/usmanhanif4040/Face-Alignment-AI-/contributors/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1198,26 +1257,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      2 lines (2 sloc)
+      18 lines (15 sloc)
       <span class="file-info-divider"></span>
-    173 Bytes
+    705 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md?plain=1" data-permalink-href="/usmanhanif4040/Face-Alignment-AI-/blob/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>    <a href="/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md" data-permalink-href="/usmanhanif4040/Face-Alignment-AI-/blob/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a href="/usmanhanif4040/Face-Alignment-AI-/raw/main/README.md" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
+      <a href="/usmanhanif4040/Face-Alignment-AI-/raw/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
 </a>
-        <a href="/usmanhanif4040/Face-Alignment-AI-/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
+        <a href="/usmanhanif4040/Face-Alignment-AI-/blame/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
 </a>
     </div>
 
@@ -1232,11 +1283,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/usmanhanif4040/Face-Alignment-AI-/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/usmanhanif4040/Face-Alignment-AI-/raw/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:453288333,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8da1b456ec8bd92d4a7ae9ba1deae5c144dac6272e25a2673ac993eb0d9a38ca" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:453288333,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a3f27023ca3bfc28134719782ede35315f63dc0abeb6a83ad7aa92adcf2d5ae1" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -1259,13 +1310,13 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fusmanhanif4040%2FFace-Alignment-AI-%2Fblob%2Fmain%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fusmanhanif4040%2FFace-Alignment-AI-%2Fblob%2Fmain%2FFace%2520Alignment%2520%28AI%29%2FModifying%2520Alignment%2520Algorithm%2520with%2520point%25209.py" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fusmanhanif4040%2FFace-Alignment-AI-%2Fblob%2Fmain%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fusmanhanif4040%2FFace-Alignment-AI-%2Fblob%2Fmain%2FFace%2520Alignment%2520%28AI%29%2FModifying%2520Alignment%2520Algorithm%2520with%2520point%25209.py" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1292,15 +1343,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/usmanhanif4040/Face-Alignment-AI-/raw/main/README.md">
+            <a class="dropdown-item" href="/usmanhanif4040/Face-Alignment-AI-/raw/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/usmanhanif4040/Face-Alignment-AI-/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/usmanhanif4040/Face-Alignment-AI-/raw/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:453288333,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8da1b456ec8bd92d4a7ae9ba1deae5c144dac6272e25a2673ac993eb0d9a38ca">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:453288333,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a3f27023ca3bfc28134719782ede35315f63dc0abeb6a83ad7aa92adcf2d5ae1">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -1323,7 +1374,7 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/usmanhanif4040/Face-Alignment-AI-/blame/main/README.md">
+              <a class="dropdown-item" href="/usmanhanif4040/Face-Alignment-AI-/blame/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py">
                 View blame
               </a>
             </li>
@@ -1334,10 +1385,138 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-face-alignment-ai-" class="anchor" aria-hidden="true" href="#face-alignment-ai-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Face-Alignment-AI-</h1>
-<p dir="auto">face alignment is an algorithm of transforming a face picture extracted from an image or a video frame to a specified orientation, position, and scale.</p>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+
+      
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="Face Alignment (AI)/Modifying Alignment Algorithm with point 9.py">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>class</span> <span class=pl-v>Face_Align_Mouth</span>(<span class=pl-v>Face_Align</span>):    </td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>get_perspective_points</span>(<span class=pl-s1>self</span>, <span class=pl-s1>l_eye</span>, <span class=pl-s1>r_eye</span>, <span class=pl-s1>nose</span>, <span class=pl-s1>mouth_l</span>, <span class=pl-s1>mouth_r</span>):</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xl</span>, <span class=pl-s1>yl</span>) <span class=pl-c1>=</span> <span class=pl-s1>l_eye</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xr</span>, <span class=pl-s1>yr</span>) <span class=pl-c1>=</span> <span class=pl-s1>r_eye</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xml</span>, <span class=pl-s1>yml</span>) <span class=pl-c1>=</span> <span class=pl-s1>mouth_l</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xmr</span>, <span class=pl-s1>ymr</span>) <span class=pl-c1>=</span> <span class=pl-s1>mouth_r</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">        </td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xn</span>, <span class=pl-s1>yn</span>) <span class=pl-c1>=</span> ( <span class=pl-c1>0.5</span><span class=pl-c1>*</span>(<span class=pl-s1>xl</span><span class=pl-c1>+</span><span class=pl-s1>xr</span>), <span class=pl-c1>0.5</span><span class=pl-c1>*</span>(<span class=pl-s1>yl</span><span class=pl-c1>+</span><span class=pl-s1>yr</span>) )</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xm</span>, <span class=pl-s1>ym</span>) <span class=pl-c1>=</span> ( <span class=pl-c1>0.5</span><span class=pl-c1>*</span>(<span class=pl-s1>xml</span><span class=pl-c1>+</span><span class=pl-s1>xmr</span>), <span class=pl-c1>0.5</span><span class=pl-c1>*</span>(<span class=pl-s1>yml</span><span class=pl-c1>+</span><span class=pl-s1>ymr</span>) )</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>dx</span>, <span class=pl-s1>dy</span>) <span class=pl-c1>=</span> (<span class=pl-s1>xm</span><span class=pl-c1>-</span><span class=pl-s1>xn</span>, <span class=pl-s1>ym</span><span class=pl-c1>-</span><span class=pl-s1>yn</span>)</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xl2</span>, <span class=pl-s1>yl2</span>) <span class=pl-c1>=</span> (<span class=pl-s1>xl</span><span class=pl-c1>+</span><span class=pl-c1>1.1</span><span class=pl-c1>*</span><span class=pl-s1>dx</span>, <span class=pl-s1>yl</span><span class=pl-c1>+</span><span class=pl-c1>1.1</span><span class=pl-c1>*</span><span class=pl-s1>dy</span>)</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s1>xr2</span>, <span class=pl-s1>yr2</span>) <span class=pl-c1>=</span> (<span class=pl-s1>xr</span><span class=pl-c1>+</span><span class=pl-c1>1.1</span><span class=pl-c1>*</span><span class=pl-s1>dx</span>, <span class=pl-s1>yr</span><span class=pl-c1>+</span><span class=pl-c1>1.1</span><span class=pl-c1>*</span><span class=pl-s1>dy</span>)</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">        </td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>s</span> <span class=pl-c1>=</span> <span class=pl-s1>self</span>.<span class=pl-s1>size</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>pts1</span> <span class=pl-c1>=</span> <span class=pl-s1>np</span>.<span class=pl-en>float32</span>([[<span class=pl-s1>xl</span>, <span class=pl-s1>yl</span>], [<span class=pl-s1>xr</span>, <span class=pl-s1>yr</span>], [<span class=pl-s1>xr2</span>, <span class=pl-s1>yr2</span>], [<span class=pl-s1>xl2</span>, <span class=pl-s1>yl2</span>]])</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>pts2</span> <span class=pl-c1>=</span> <span class=pl-s1>np</span>.<span class=pl-en>float32</span>([[<span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.3</span>, <span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.3</span>], [<span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.7</span>, <span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.3</span>], [<span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.7</span>, <span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.75</span>], [<span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.3</span>, <span class=pl-s1>s</span><span class=pl-c1>*</span><span class=pl-c1>0.75</span>]])</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">        </td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> (<span class=pl-s1>pts1</span>, <span class=pl-s1>pts2</span>)</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/usmanhanif4040/Face-Alignment-AI-/blame/986417e9573cbb03ef36ff6f94289b3e95ebd2cf/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/usmanhanif4040/Face-Alignment-AI-/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -1394,16 +1573,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5da318107497ddadd70349fbc764ae20d86ad9354a10c6059ca11f178052cca" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dcc070a7d8a0d3cdd84ae907e911266b747f80a458ef9955f549f44f4dc99d45" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="066781ee885adce3b082fedba49377de8533fe71e316aa6c00b6855c425f9a8f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="15b0d9cdde8c62dfea478ff5620179f4569345c93635d88f87b8d25c78661c44" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3d9df1965fb18ad5e6ab3c0f0545c502618287b6d73fa23bff3d362ce54017b4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2de2103313958b60b7e0ee9f8a5d10e9b1f6fb54f13aeb8d47b6ff38f7899ac3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="576e58d9e5e1feb3fae57f5f2ad19f7dd9193a88dfb2c61f3971a997fd60f544" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b919b92debd1c565239c3bb84998f8787596717c03b2d7253d640095e0c64c2e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f07dc3531c28f963888997bc2d7f7fadd56ff1df5460db8ab3d233187fbd2338" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="58569df8caf33cf5d9a884b825c50e7c7a4c2571aa01097692a84dff44893b9c" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="eb8a5d5446f293707121236e164d7b40d45f2d536ec16313921745a839bae526" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="618635140d714b5d16a67451c6716516b30a391fb2361609466d854bc5ef4f9f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a730594c0c77467b50eb0e502e65172263562129d0fcd9067dc84d2452e2b53" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26e3ca678708341f82f9f3e0bea8418bea6d6dc2d6d3f2ce6eb2cd4d1aef68c9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4fd654b32ad7a82d68e9ae51c2c817ac481ad9e6042a5a00e8b257564a66090a" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="917c2cb95033ceafe6e98d24f34f33ec2dc7e30b36535e285f7e09bf5f7c289e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="492b6374a30886d133f32aa5e0ad96e689e0c7b949f26e087c949e69aa844bf0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/usmanhanif4040/Face-Alignment-AI-/blob/main/Face%20Alignment%20(AI)/Modifying%20Alignment%20Algorithm%20with%20point%209.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="17e0a281c1740dd0ecc775d201dcbb89c27fa1e297183456dee3759441172990" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
